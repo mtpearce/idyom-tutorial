@@ -1,6 +1,6 @@
 # A tutorial for IDyOM
 
-IDyOM: https://www.marcus-pearce.com/idyom/
+IDyOM: downloads and documentation available at https://www.marcus-pearce.com/idyom/
 
 ## Prerequisites
 
